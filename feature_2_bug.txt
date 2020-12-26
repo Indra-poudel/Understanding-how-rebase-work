@@ -1,1 +1,3 @@
 feature 2 from release
+
+pointing feature 2 bug to feature 2
